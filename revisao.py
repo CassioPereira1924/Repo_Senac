@@ -1,6 +1,6 @@
 print("Bem-vindo ao Konoha Hotel!\n")
 print("Escolha o tipo de quarto:")
-print("1 - Quarto Genin (R$ 120,00 por noite)\n2 - Quarto Jounin (R$ 180,00 por noite)\n3 - Suíte Hokage (R$ 250,00 por noite)")
+print("1 - Quarto Genin (R$ 120,50 por noite)\n2 - Quarto Jounin (R$ 180,00 por noite)\n3 - Suíte Hokage (R$ 250,00 por noite)")
 
 # Entrada do tipo de quarto
 while True:

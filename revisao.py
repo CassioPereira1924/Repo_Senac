@@ -14,7 +14,7 @@ while True:
 nome = input("Informe seu nome: ")
 noites = int(input("Informe o número de noites que deseja ficar: "))
 
-# Definindo o preço por noite com base na escolha
+
 if tipo_quarto == 1:
     preco_noite = 120
     nome_quarto = "Quarto Genin"

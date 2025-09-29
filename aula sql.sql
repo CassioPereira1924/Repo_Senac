@@ -213,10 +213,6 @@ WHERE categoria IN ('Informática','Acessórios')
 GROUP BY cliente
 HAVING total_cliente > 5000 AND total_cliente < 50000;
 
-SELECT categoria,
-AVG(valor_unitario * quantidade) AS media_vendida
-FROM vendas
-GROUP BY categoria;
 
 
 
